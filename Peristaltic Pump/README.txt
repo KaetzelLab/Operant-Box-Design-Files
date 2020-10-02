@@ -1,1 +1,1 @@
- all 3d design files need to be 3D -pinted in order to assemlbe Pump
+ Complete set of 3D design files needed to be 3D-pinted in order to assemble the peristaltic pump.
