@@ -1,7 +1,0 @@
-Only need for 3D printed opaqler assembly 
-Five_poke_layer_addon1.stl
-Five_poke_layer_addon2.stl
-Five_poke_opaque_layer.stl
-
-This is only when oplal-50 is used
-Five_poke_spacer_layer.stl  
